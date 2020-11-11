@@ -1,5 +1,7 @@
 # coupon-front
 
+https://lzxxy.vip/
+
 ## Project setup
 ```
 npm install
